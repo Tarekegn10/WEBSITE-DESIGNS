@@ -1,2 +1,2 @@
 # website
-I'm a Front-end Developer
+Front-end Developer

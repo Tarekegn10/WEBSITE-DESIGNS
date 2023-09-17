@@ -1,0 +1,175 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("backgroundimage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100px;
+  color: #ffffff;
+}
+nav {
+  margin-left: 40%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+nav a {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  margin-right: 50px;
+}
+
+nav a:hover {
+  color: #000000;
+  transition: 1s;
+}
+
+.main {
+  padding-top: 20px;
+  background-color: #ffffff52;
+  width: 40%;
+  height: 350px;
+  margin-top: 70px;
+  text-align: center;
+  margin-left: 30%;
+  border-radius: 20px;
+}
+h2 {
+  font-size: 30px;
+  text-transform: capitalize;
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+p input {
+  width: 200px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  height: 30px;
+  border: 0;
+  outline: 0;
+  border-radius: 6px;
+}
+
+.btn {
+  background-image: linear-gradient(
+    rgba(0, 26, 255, 0.34),
+    rgba(255, 0, 0, 0.338)
+  );
+  height: 30px;
+  width: 150px;
+  border: 0;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.forgot a {
+  display: block;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.footer {
+  background-color: #ffffff1d;
+  margin-top: 190px;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  text-transform: capitalize;
+  margin-bottom: 5px;
+}
+.forgot a:hover {
+  background-image: linear-gradient(
+    rgba(0, 26, 255, 0.34),
+    rgba(255, 0, 0, 0.338)
+  );
+  border-radius: 10px;
+  margin-left: 30%;
+  width: 40%;
+  color: white;
+}
+
+/* *{
+	padding: 5px;
+}
+nav{
+	text-align: right;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	border:2px;
+	border-radius: 5px;
+	
+}
+
+a:hover{
+	
+	background-color: black;
+	color:white;
+	
+}
+
+form{
+	display: float;
+	padding: 20px;
+	margin-left: 20%;
+	margin-right: 10%;
+	border: 2px solid black;
+	border-radius:5px;
+	margin-top: 30px;
+}
+
+h2{
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+b{
+	color: white;
+	background-color: black;
+	margin-top: 2px;
+	padding: 2px;
+	border:2px;
+	border-radius: 5px;
+}
+
+.footer{
+	margin-top: 300px;
+	border: 2px solid black;
+}
+
+.forgot{
+	
+	margin: 4px;
+
+}
+
+.btn{
+	padding: 10px;
+}
+.btn:hover{
+	
+	background-color: black;
+	color:white;
+	border: 2px;
+	border-radius: 5px;
+	
+} */
